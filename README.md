@@ -76,7 +76,6 @@ Final cleaned dataset: **netflix_clean.csv**
 - **Interactive View (Recommended)** → Download `netflix_dashboard.pbix` and open in **Power BI Desktop** (latest version)
 
   ## 🔗 Connect & Explore More  
-- 📂 GitHub Repo: [Netflix Power BI Dashboard](your-repo-link)  
 - 💼 LinkedIn Post: [Project Walkthrough & Insights](https://www.linkedin.com/posts/sakshi-verma-841045285_powerbi-dataanalytics-netflixinsights-activity-7331646334833238016-bqeU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEU9OnEBaBEIQXaz-TIOqDeb7BKd_AFZl-w)  
 
 📌 *This project demonstrates my ability to clean raw datasets, create interactive dashboards, and extract business insights — skills directly applicable to data analysis and BI roles.*  
